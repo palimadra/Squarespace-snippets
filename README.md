@@ -30,5 +30,23 @@ Collection of code snippets for Squarespace websites. The code snippets are prim
     font-style: italic;
 }
 ```
+
+###Search field and it's text customization
+```CSS
+
+/* To Customize Search Pages */
+
+.search-form .queryField {
+    height: 2.0em !important;
+    color: #ff0000 !important;
+    font-weight: bold;
+}
+/* To Customize Sidebar Search Widgets */
+
+.search-form-pt .queryField {
+    height: 2.0em !important;
+    color: #0000ff !important;
+    font-weight: bold;
+} 
+```
 More to come. Feel free to contribute.
-z
