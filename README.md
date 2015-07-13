@@ -29,6 +29,6 @@ Collection of code snippets for Squarespace websites. The code snippets are prim
     font-size: 10px;
     font-style: italic;
 }
-'''
+```
 More to come. Feel free to contribute.
 z
